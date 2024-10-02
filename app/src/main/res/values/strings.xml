@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">FoodCatalog</string>
+    <string name="food_image_desc">Description of the food image</string>
+    <string name="food_detail_image_desc">Image of the food in detail</string>
+    <string name="about">About</string>
+    <string name="name">Muhammad Nurman</string>
+    <string name="email">nurmanmuhammad52@gmail.com</string>
+    <string name="about_image_desc">Your profile photo</string>
+    <string name="foods_name">Foods Name</string>
+    <string name="description">Description</string>
+    <string name="share">Share</string>
+    <string name="splash_logo">Splash Logo</string>
+    <string-array name="data_name">
+        <item>Pizza</item>
+        <item>Hamburger</item>
+        <item>Sushi</item>
+        <item>Rendang</item>
+        <item>Lasagna</item>
+        <item>Ramen</item>
+        <item>Kimchi</item>
+        <item>Massaman Curry</item>
+        <item>Pasta</item>
+        <item>Tacos</item>
+        <item>Croissant</item>
+        <item>Kebab</item>
+        <item>Pad Thai</item>
+        <item>Churros</item>
+        <item>Bulgogi</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>Piza (bahasa Italia: pizza) adalah hidangan gurih asal Italia sejenis adonan bundar dan pipih, yang dipanggang di oven dan biasanya dilumuri saus tomat serta keju dengan bahan makanan tambahan lainnya yang bisa dipilih sesuai selera. Keju yang dipakai biasanya mozzarella atau keju piza, bisa juga parmesan dan beberapa jenis keju lainnya.</item>
+        <item>Hamburger atau burger adalah sejenis roti berbentuk bundar yang diiris dua, dan di tengahnya diisi dengan patty yang biasanya diambil dari daging, kemudian sayur-sayuran berupa selada, tomat dan bawang bombai. Sebagai sausnya, hamburger diberi berbagai jenis saus seperti mayones, saus tomat dan sambal, serta moster. Beberapa varian hamburger juga dilengkapi dengan keju dan asinan. Hamburger merupakan makanan siap saji yang populer di Amerika Serikat.</item>
+        <item>Susyi (KBBI) atau sushi (Jepang: 鮨, 鮓, 寿司, すし; Romaji: sushi) adalah makanan Jepang yang terdiri dari nasi yang dibentuk bersama lauk (neta) berupa makanan laut, daging, sayuran bakar atau sudah dimasak. Nasi susyi mempunyai rasa masam yang lembut karena dibumbui campuran cuka beras, garam, dan gula.</item>
+        <item>Rendang (bahasa Minangkabau: randang; Jawi: رندڠ) adalah hidangan berbahan dasar daging yang dihasilkan dari proses memasak suhu rendah dalam waktu lama dengan menggunakan aneka rempah-rempah dan santan. Proses memasaknya memakan waktu berjam-jam (biasanya sekitar empat jam) hingga yang tinggal hanyalah potongan daging berwarna hitam pekat dan dedak. Dalam suhu ruangan, rendang dapat bertahan hingga berminggu-minggu. Rendang yang dimasak dalam waktu yang lebih singkat dan santannya belum mengering disebut kalio, berwarna cokelat terang keemasan.</item>
+        <item>Lasagna atau lasagne adalah pasta yang dipanggang di oven dan merupakan makanan tradisional Italia. Lasagna sendiri secara harfiah adalah lasagne yang berisikan daging. Lasagna sendiri dapat diisi dengan banyak isian lainnya seperti daging, sayur-sayuran, ayam, makanan laut dan sebagainya sesuai selera.</item>
+        <item>Ramen (拉麺, ラーメン) adalah masakan mi kuah Jepang yang berasal dari Jepang dan Tiongkok. Orang Jepang juga menyebut ramen sebagai chuka soba (中華そば, soba dari Tiongkok) atau shina soba (支那そば) karena soba atau o-soba dalam bahasa Jepang sering juga berarti mie.Ada banyak jenis ramen.Berbeda rasa atau beragam rasa.</item>
+        <item>Kimci atau kimchi adalah makanan tradisional Korea berupa asinan sayur hasil fermentasi yang diberi bumbu pedas. Setelah digarami dan dicuci, sayuran dicampur dengan bumbu yang dibuat dari udang krill, kecap ikan, bawang putih, jahe dan bubuk cabai merah. Sayuran yang paling umum dibuat kimci adalah sawi putih dan lobak. Di zaman dulu, kimci diucapkan sebagai chim-chae (Hangul: 침채; Hanja: 沈菜) yang berarti "sayuran yang direndam."</item>
+        <item>Massaman Curry adalah salah satu hidangan khas Thailand yang terkenal dengan cita rasa yang kaya dan kompleks. Kari ini merupakan perpaduan unik antara masakan Thailand dan pengaruh kuliner India dan Persia. Ciri khas Massaman Curry terletak pada penggunaan rempah-rempah seperti kayu manis, cengkeh, dan kapulaga, yang memberikan aroma dan rasa yang hangat. Biasanya, Massaman Curry disajikan dengan daging sapi, ayam, atau domba, yang dimasak dalam santan kental hingga empuk. Sayuran seperti kentang, bawang bombay, dan kacang tanah juga sering ditambahkan, menciptakan kombinasi rasa manis, pedas, dan gurih.</item>
+        <item>Pasta adalah hidangan tradisional Italia yang terbuat dari adonan tepung gandum, air, dan terkadang telur, yang dibentuk menjadi berbagai jenis bentuk seperti spaghetti, penne, fettuccine, dan lasagna. Pasta merupakan makanan pokok yang populer di seluruh dunia karena keanekaragaman bentuknya serta kemampuannya menyerap berbagai macam saus dan bumbu.</item>
+        <item>Tacos adalah makanan khas Meksiko yang terdiri dari tortilla (biasanya terbuat dari jagung atau tepung) yang diisi dengan berbagai isian seperti daging, ayam, ikan, kacang-kacangan, atau sayuran. Isian tacos sering kali dibumbui dengan rempah-rempah khas Meksiko dan disajikan dengan pelengkap seperti guacamole, salsa, krim asam, keju, dan irisan jeruk limau. Tacos dikenal karena keanekaragaman isiannya, yang memungkinkan setiap orang menyesuaikan rasa sesuai selera. Hidangan ini biasanya disajikan secara sederhana, namun penuh dengan cita rasa yang segar dan tajam.</item>
+        <item>Croissant adalah roti berlapis asal Prancis yang berbentuk bulan sabit dan memiliki tekstur yang renyah di luar serta lembut di dalam. Dibuat dari adonan yang dilipat berkali-kali dengan mentega, croissant memiliki lapisan-lapisan tipis yang membuatnya ringan dan beraroma khas. Croissant biasanya dinikmati sebagai sarapan, baik dalam bentuk polos maupun dengan isian seperti cokelat, keju, atau almond. Roti ini sering disajikan dengan secangkir kopi atau teh, menjadikannya pilihan yang sempurna untuk sarapan atau camilan sore.</item>
+        <item>Kebab adalah hidangan daging yang populer di Timur Tengah, Asia Tengah, dan beberapa bagian Mediterania. Kebab terdiri dari daging yang dipanggang atau dibakar di atas bara api, biasanya menggunakan tusukan, dan bisa berupa daging domba, sapi, ayam, atau ikan. Daging yang digunakan dalam kebab seringkali direndam dalam bumbu-bumbu seperti bawang putih, jinten, paprika, dan rempah-rempah lainnya sebelum dipanggang, yang memberikan rasa gurih dan kaya. Kebab biasanya disajikan dengan roti pita, nasi, atau sayuran segar, dan dilengkapi dengan saus seperti yogurt atau tahini. Hidangan ini populer sebagai makanan cepat saji maupun dalam acara-acara khusus.</item>
+        <item>Pad Thai adalah hidangan mie khas Thailand yang dimasak dengan mie beras, udang, telur, tauge, dan kacang tanah cincang. Hidangan ini dimasak dalam wajan dengan saus tamarind yang memberikan rasa asam manis khas, serta dibumbui dengan bawang putih dan cabai. Pad Thai sering disajikan dengan irisan jeruk limau dan daun ketumbar segar sebagai pelengkap. Hidangan ini merupakan salah satu makanan jalanan paling populer di Thailand dan dikenal karena perpaduan rasa asam, manis, gurih, dan pedas.</item>
+        <item>Churros adalah camilan manis yang berasal dari Spanyol dan Portugal, terbuat dari adonan yang digoreng hingga renyah, lalu ditaburi gula dan kayu manis. Churros sering disajikan dengan cokelat panas sebagai saus celupan. Hidangan ini sangat populer sebagai makanan jalanan atau camilan saat sarapan, terutama di Amerika Latin dan Spanyol. Rasanya manis, teksturnya renyah di luar, dan lembut di dalam, menjadikannya favorit di berbagai tempat.</item>
+        <item>Bulgogi adalah hidangan Korea yang terdiri dari irisan daging sapi yang dimarinasi dalam campuran kecap asin, gula, minyak wijen, bawang putih, dan bawang bombay, lalu dipanggang atau ditumis. Dagingnya memiliki rasa manis dan gurih yang khas, dan sering disajikan dengan nasi, selada, serta berbagai banchan (lauk kecil) seperti kimchi. Bulgogi sangat digemari karena tekstur dagingnya yang lembut dan rasa bumbu yang meresap sempurna.</item>
+    </string-array>
+    <integer-array name="data_photo">
+        <item>@drawable/food1</item>
+        <item>@drawable/food2</item>
+        <item>@drawable/food3</item>
+        <item>@drawable/food4</item>
+        <item>@drawable/food5</item>
+        <item>@drawable/food6</item>
+        <item>@drawable/food7</item>
+        <item>@drawable/food8</item>
+        <item>@drawable/food9</item>
+        <item>@drawable/food10</item>
+        <item>@drawable/food11</item>
+        <item>@drawable/food12</item>
+        <item>@drawable/food13</item>
+        <item>@drawable/food14</item>
+        <item>@drawable/food15</item>
+    </integer-array>
+</resources>
